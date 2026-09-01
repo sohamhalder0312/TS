@@ -6,7 +6,7 @@ body {
 }
 #header {
     border: 1px solid;
-    padding: 50px;
+    padding: 40px;
     text-align: center;
     text-decoration: rgb(177, 242, 202) dotted underline 2px;
     /* text-decoration-thickness: 2px; */
@@ -16,7 +16,7 @@ body {
 #details{
     border-style: solid;
     border-width: 1px;
-    padding: 50px;
+    padding: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
